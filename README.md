@@ -1,4 +1,4 @@
-# SDXL-LoRA
+# SDXL-LoRA🎣
 Using LoRA to fine tune SDXL v1.0 + Refiner Image Gen model. 
 
 ## SDXL-LoRA Fine-Tuning Notebook
